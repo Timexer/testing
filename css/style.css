@@ -1,25 +1,155 @@
 #container {
-
+    width: 600px;
+    height: 900px;
+    background-color: white;
     position: relative;
-    border: 1px solid yellow;
-    width: 500px;
-    height: 500px;
 }
 
-#div-1 {
-    width: 100px;
-    height: 100px;
+.small-box {
+
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    border: 2px solid white;
+}
+
+
+.red {
+    background-color: red;
+
+
+}
+
+.blue {
     background-color: blue;
-    /*    position: relative;*/
     left: 200px;
-    background-color: orangered;
-    position: absolute;
 }
 
-#div-2 {
+
+.green {
+
+    background-color: green;
+    left: 400px;
+}
+
+.yellow {
+
+    background-color: yellow;
+    top: 200px;
+
+}
+
+.black {
+
+    background-color: black;
+    top: 200px;
+    left: 200px;
+
+}
+
+.orange {
+
+    background-color: orange;
+    top: 200px;
+    left: 400px;
+
+}
+
+.purple {
+
+    background-color: purple;
+    top: 400px;
+
+}
+
+.gray {
+
+    background-color: gray;
+    top: 400px;
+    left: 200px;
+}
+
+.pink {
+
+    background-color: lightpink;
+    left: 400px;
+    top: 400px;
+}
+
+.small-circle {
     width: 100px;
     height: 100px;
-    background-color: orangered;
-    position: absolute;
+    background-color: white;
+    position: relative;
+    border-radius: 50%;
+    left: 25%;
+    top: 25%; 
+    border: 1px solid black;
+}
+
+.redc {
+    background-color: red;
+
 
 }
+
+.bluec {
+    background-color: blue;
+  
+}
+
+
+.greenc {
+
+    background-color: green;
+ 
+}
+
+.yellowc {
+
+    background-color: yellow;
+   
+
+}
+
+.blackc {
+
+    background-color: black;
+   
+
+}
+
+.orangec {
+
+    background-color: orange;
+  
+
+}
+
+.purplec {
+
+    background-color: purple;
+   
+
+}
+
+.grayc {
+
+    background-color: gray;
+ 
+}
+
+.pinkc {
+
+    background-color: lightpink;
+  
+}
+
+
+
+
+
+
+
+
+
