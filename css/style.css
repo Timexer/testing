@@ -1,0 +1,32 @@
+*{
+    
+    font-size: 20px;
+
+}
+
+
+#container {
+
+    /*    positio*/
+    border: 1px solid black;
+    width: 500px;
+    height: 500px;
+}
+
+#div-1 {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    /*    position: relative;*/
+    left: 200px;
+    background-color: orangered;
+    position: absolute;
+}
+
+#div-2 {
+    width: 100px;
+    height: 100px;
+    background-color: orangered;
+    position: absolute;
+
+}
